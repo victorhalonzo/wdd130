@@ -1,0 +1,50 @@
+.logo-box {
+  text-align: center;
+  margin-top: 30px;
+  border-radius: 20%;
+}
+
+.logo-box img {
+  border-radius: 50%;
+}
+
+nav {
+  text-align: center;
+  margin-top: 10px;
+}
+
+nav a {
+  padding: 15px;
+}
+
+#banner-box{
+    margin: 30px;
+    text-align: center;
+}
+
+#product-gallery{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    margin: 50px;
+}
+
+.product{
+    width:24%;
+    margin-bottom:10px;
+    overflow: hidden;
+    position:relative;
+    cursor: pointer;
+    box-shadow: 0 0 6px 0 rgba(0,0,0,.5);    
+}
+
+.product >img{
+    width: 100%;
+    height: 70%;
+    object-fit: cover;
+    display:block;
+}
+
+footer{
+    text-align: center;
+}
