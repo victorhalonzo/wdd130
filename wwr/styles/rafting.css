@@ -88,6 +88,10 @@
     justify-self: right;
   }
  
+  .navigation{
+    display: flex;
+    list-style: none;
+  }
 
   .sociallinks > a{
     text-decoration: none;
