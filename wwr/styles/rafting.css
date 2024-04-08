@@ -213,6 +213,14 @@ footer nav {
   left: 310px;
 }
 
+.hero>h2 {
+  color: var(--secondary-color);
+  position: absolute;
+  top: 90px;
+  left: 340px;
+  font-size: 20px;
+}
+
 .hero>article {
   color: var(--secondary-color);
   position: absolute;
